@@ -1,7 +1,7 @@
 # N_pausemenu
 Pause Menu complet facilet a config
 
-Scripts By NoxZi-_- 
+Scripts By #NoxZi-_-Arts#4561
 
 Merci de ne pas vous approprier le scripts!
 
