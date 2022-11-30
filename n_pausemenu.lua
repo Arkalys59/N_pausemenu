@@ -11,4 +11,4 @@ Citizen.CreateThread(function()
 end)
 
 -------Scripts by #NoxZi-_-Arts#4561
-Version 1.0
+--------Version 1.0
