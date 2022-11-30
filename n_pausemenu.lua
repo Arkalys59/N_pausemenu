@@ -10,4 +10,5 @@ Citizen.CreateThread(function()
   AddTextEntry('PM_SCR_RPL', '~^9~Éditeur ∑')
 end)
 
--------Scripts by NoxZi-_-
+-------Scripts by #NoxZi-_-Arts#4561
+Version 1.0
